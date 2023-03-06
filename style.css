@@ -21,7 +21,10 @@
   h2 {
     font-size: 48px;
   }
-  
+  .main-p {
+    font-size: 48px;
+    line-height: 0.5;
+  }
   h3 {
     font-size: 24px;
     opacity: 0.7;
